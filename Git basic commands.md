@@ -1,7 +1,7 @@
 🟢 Basic Git Commands
 Setup
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.name "username Name"
+git config --global user.email "emailod.com"
 git config --list
 
 Starting a Repository
